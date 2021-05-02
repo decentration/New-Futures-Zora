@@ -1,6 +1,6 @@
-# Zora Media Protocol
+# New Futures on Edgeware (Zora Media Protocol).
 
-This repository contains the core contracts that compose the Zora Media Protocol.
+This repository contains the core contracts composed by Zora, but re configured by New Futures for the Edgeware Substrate Blockchain.
 
 The protocol aims to provide a universal value system for media.
 
